@@ -18,5 +18,8 @@
 |                      |                               |         |Manual edit:                                    |
 |                      |                               |         |Removed sentences that start with a small letter|
 |                      |                               |         |                                                |
+|scripts_aged_15_above |Orðatiltæki                    |1372     |Tekið saman af nokkrum opnum vefheimildum       |
+|                      |                               |         |aðallega ms.is                                  |
+|                      |                               |         |                                                |
 |                      |                               |         |                                                |
 |                      |                               |         |                                                |
