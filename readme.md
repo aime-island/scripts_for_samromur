@@ -1,6 +1,6 @@
 |Sript name            |Origin                         |Count|Discription-H2                                  |
 |----------------------|-------------------------------|-----|------------------------------------------------|
-|kids_aged_11_15	   |RMH->MÍM->textasafn_arnastofnun|25971|Allowed symbals: : , ! ? -                      |
+|kids_aged_10_and_under|RMH->MÍM->textasafn_arnastofnun|25971|Allowed symbals: : , ! ? -                      |
 |                      |					           |     |Sentence length: 2-5                            |
 |                      |			                   |     |Word max: 8                                     |
 |                      |                               |     |Only BIN: True                                  |
@@ -10,7 +10,7 @@
 |                      |                               |     |Removed sentenced that are all caps             |
 |                      |                               |     |                                                |
 |                      |                               |     |                                                |
-|kids_aged_10_and_under|RMH->MÍM->textasafn_arnastofnun|43348|Allowed symbals: : , ! ? -                      |
+|kids_aged_11_15       |RMH->MÍM->textasafn_arnastofnun|43348|Allowed symbals: : , ! ? -                      |
 |                      |					           |     |Sentence length: 6-10                           |
 |                      |			                   |     |Word max: 1                                     |
 |                      |                               |     |Only BIN: True                                  |
