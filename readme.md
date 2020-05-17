@@ -8,7 +8,8 @@
 |                      |                               |     |Manual edit:                                    |
 |                      |                               |     |Removed sentences that start with a small letter|
 |                      |                               |     |Removed sentenced that are all caps             |
-|                      |                               |     |                                                |
+|                      |                               |     |Manually the sentences:                         |
+|                      |                               |     |Mígur yfir hana.	textasafn_arnastofnun         |
 |                      |                               |     |                                                |
 |kids_aged_11_15       |RMH->MÍM->textasafn_arnastofnun|43348|Allowed symbals: : , ! ? -                      |
 |                      |					           |     |Sentence length: 6-10                           |
