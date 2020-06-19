@@ -19904,7 +19904,6 @@ Berið fram með grófu brauði.	textasafn_arnastofnun
 Hvenær fór Anna Dóra?	textasafn_arnastofnun
 Það skjálfa á henni hnén.	textasafn_arnastofnun
 Við sjáumst í dag.	textasafn_arnastofnun
-Mígur yfir hana.	textasafn_arnastofnun
 Haltu þér fast.	textasafn_arnastofnun
 Varð stór.	textasafn_arnastofnun
 Aftur Ísland.	textasafn_arnastofnun
