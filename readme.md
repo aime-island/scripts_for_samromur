@@ -12,7 +12,11 @@
 |                      |                               |      |Removed the sentences: 	                       |
 |                      |                               |      |Mígur yfir hana.                                |
 |                      |                               |      |                                                |
-|                      |                               |      |                                                |
+|                      |RMH->MÍM->textasafn_arnastofnun|39577 |An addition made 23.01.2021. Same parameters as |
+|                      |    ->vf_kylfingur             |      |above.                                          |
+|                      |    ->Wiki                     |      |                                                |
+|                      |    ->Vísindavefurinn          |      |                                                |
+|                      |    ->Morgunblaðið             |      |                                                |
 |                      |                               |      |                                                |
 |----------------------|-------------------------------|------|------------------------------------------------|
 |kids_aged_11_15       |RMH->MÍM->textasafn_arnastofnun|43348 |Allowed symbals: : , ! ? -                      |
@@ -25,6 +29,9 @@
 |                      |                               |      |Removed sentenced that are all caps             |
 |                      |synthesised                    |10000 |Question and commands that where created with   |
 |                      |                               |      |using a Python scripts.                         |
+|                      |RMH->MÍM->textasafn_arnastofnun|29997 |An addition made 23.01.2021. Same parameters as |
+|                      |                               |      |above.                                          |
+|                      |                               |      |                                                |
 |                      |                               |      |                                                |
 |----------------------|-------------------------------|------|------------------------------------------------|
 |scripts_aged_15_above |RMH->vísindavefurinn           |55677 |Allowed symbals: : , ! ? -                      |
@@ -46,4 +53,11 @@
 |					   |				               |	  |to remove them from the reading list.           |
 |                      |synthesised                    |10000 |Question and commands that where created with   |
 |                      |                               |      |using a Python scripts.                         |
+|                      |                               |      |                                                |
+|                      |RMH->MÍM->textasafn_arnastofnun|72280 |An addition made 23.01.2021. Same parameters as |
+|                      |                               |      |above.                                          |
+|                      |                               |      |                                                |
 |----------------------|-------------------------------|------|------------------------------------------------|
+
+
+
